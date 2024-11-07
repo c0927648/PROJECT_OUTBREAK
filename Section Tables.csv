@@ -1,0 +1,18 @@
+section_id,module_id,section_title,section_content,section_type,slugs,created_at,updated_at
+101,1,what is investing?,"Investing is putting your money into something (like a business, stock, or real estate)with the hope that it will grow over time and give you back more money.",info,what-is-investing,11/4/2024,
+102,1,risk,"Risk refers to the possibility of your investments performing below your expectations. Different investments carry different levels of risk.
+Your risk capacity is how much risk you can afford to take on. It’s based on factors such as your financial situation and how much time you have to invest.",info,risk,11/4/2024,
+202,2,stock,"A stock represents a share in the ownership of a company, including a claim on the company's earnings and assets. As such, stockholders are partial owners of the company. When the value of the business rises or falls, so does the value of the stock
+
+From : Understanding stocks. (n.d.). Schwab Brokerage",info,stock,11/7/2024,
+102,1,time horizon,"Time horizons are periods where investments are held until they are needed. 
+The length of an investment horizon will determine what types of investment products are most suitable for the investor's goals. Typically, investors seek stable assets for short-term investing. Riskier investments are more acceptable on a longer-term investment horizon.
+
+From : Chen, J. (2023b, May 10). Investment Time horizon: Definition and Role in Investing. Investopedia",info,time-horizon,11/7/2024,
+301,3,Risk Tolerance,"Your willingness to take risk. Reflects your personality, your beliefs and your investment experience.
+
+From : How do you think about risk as an investor? (n.d.). RBC Global Asset Management",info,risk-tolerance,11/7/2024,
+302,3,Risk Capacity,"Your ability to absorb the impact of investment losses as you pursue higher potential returns. Varies with your age, income and financial goals
+From : How do you think about risk as an investor? (n.d.). RBC Global Asset Management",info,risk-capacity,11/7/2024,
+303,3,The Right Balance of Investments,"Ideally the investments you choose are in line with your risk tolerance and your risk capacity. If not, you may take on more risk than you can afford – or sit in safety to such a degree that your savings grow too slowly. Either way, you may find it more challenging to reach your financial goals. That’s why it’s important to understand your own unique approach to risk and how it affects you.
+From :  How do you think about risk as an investor? (n.d.). RBC Global Asset Management",tip,The-Right Balance-of-Investments,11/7/2024,
